@@ -1,0 +1,532 @@
+.top-nav-links a {
+    text-decoration: none;
+    margin: 20px;
+}
+
+.nav-link {
+    color: rgb(177, 167, 167);
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(77, 74, 74)!important;
+    padding-top: 6px;
+    margin: 6px;
+}
+
+a:hover {
+    color: black!important;
+}
+
+.links-dropdown {
+    display: grid;
+}
+
+.logo {
+    width: 80px;
+}
+
+.log-in {
+    color: black!important;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.log-in:hover {
+    background-color: rgb(77, 74, 74)!important;
+    color: white!important;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.sign-up {
+    background-color: rgb(77, 74, 74)!important;
+    color: white!important;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+
+.sign-up:hover {
+    background-color: rgb(77, 74, 74)!important;
+    color: white!important;
+}
+
+
+
+.home {
+    width: auto;
+}
+
+.homebackground {
+    background-color: bisque;
+    padding: 50px;
+}
+
+.home-cards {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+.home-cards-image {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    height: 500px;
+    width: auto;
+}
+
+.card-img-top {
+    height: 300px;
+    
+}
+
+#Design {
+    width: auto;
+   
+}
+
+.home .home-hero {
+   display: grid;
+   text-align: center;
+   align-items: center;
+   margin: 50px;
+}
+
+
+.home-body {
+
+    background-image: url(./assets/home-image.jpg);
+    height: 600px;
+    background-position: top;
+    background-size: cover;
+    margin: 80px;
+    
+}
+
+.home-cards div {
+    display: grid;
+}
+
+.inside-home {
+
+    display: block;
+    text-align: left;
+    margin-top: 400px;
+    width: 500px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+
+
+.inside-home h3 {
+    color: black;
+    font-size: 30px;
+}
+
+.inside-home h5 {
+    font-size: 15px;
+}
+
+
+.inside-home p {
+    font-size: 13px;
+}
+
+.links a {
+    text-decoration: none;
+    margin-left: 8px;
+    color: white!important;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 2px;
+    padding: 5px;
+}
+
+
+.loading {
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+    padding: 50px;
+}
+
+
+
+.blog-body {
+    display: flex;
+    margin: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card-height {
+    height: auto;
+}
+
+.textdiv {
+    margin-top: 45px;
+   text-align: center;
+}
+
+.textarea {
+    height: 40px;
+   
+}
+
+.cardtext {
+    line-height: 30px;
+}
+
+
+
+span {
+    position: relative;
+}
+
+.lbutton {
+
+position: absolute;
+margin-bottom: 10px;
+padding-left: 5px;
+
+}
+
+.body-content {
+    margin: 30px;
+    padding: 10px;
+    
+   
+}
+
+
+.blogpage {
+    background-color: bisque;
+}
+
+
+
+.blog-h1 {
+   text-align: center;
+   padding: 20px;
+}
+
+
+.projectcontent {
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+.proj {
+    width: 400px;
+    margin: 20px;
+}
+
+.json {
+    text-align: center;
+    padding: 50px;
+}
+.span {
+    font-size: 20px;
+}
+
+.footer-body {
+    background-color: #3a3a3a;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer a {
+
+    color: rgb(175, 175, 179);
+    text-decoration: none;
+
+}
+
+sb__footer-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+sb_footer-links_div{
+    width: 150px;
+    margin: 1rem;
+    display:flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    color: white;
+}
+
+/* a{
+    color: rgb(175, 175, 179);
+    text-decoration: none;
+} */
+
+.socialmedia{
+    display: flex;
+    flex-direction: row;
+}
+.social_media img{
+    width: 20%;
+    margin-left: 100px;
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 50px;
+}
+
+.sb__footer-links_div h4{
+    font-size: 20px;
+    color: aliceblue;
+    margin: 0.5rem 0;
+    cursor: pointer;
+    margin-left: 100px
+}
+
+.sb__footer-links_div a p {
+    color: bisque;
+    margin-left: 90px;
+    font-size: 15px;
+}
+
+.sb__footer-links_div a p:hover {
+    color: white;
+}
+
+.sb__footer-below{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 0.2em;
+}
+
+.sb__footer-below-links{
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.sb__footer-below-links p{
+    font-size: 15px;
+    margin-left: 2rem;
+    color: white;
+    font-weight: 600;
+}
+
+hr{
+    color: white !important;
+    width: 100%;
+}
+
+.sb__footer-copyright p{
+    font-size: 15px;   
+    color: white;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+@media screen and (max-width:850px) {
+    .sb__footer-heading h1{
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+
+    .blog-body {
+        margin: auto;
+    }
+
+
+    .card-height {
+        width: auto !important;
+    }
+
+    /* .card {
+        width: auto !important;
+    } */
+
+    .textdiv {
+        display: block;
+    }
+
+    .footer-body {
+        display: block;
+        width: auto;
+    }
+
+
+    .footer {
+        width: auto;
+        display: block;
+        text-align: center;
+
+        margin: auto;
+    }
+
+    .social_media img {
+        width: 60px;
+    }
+
+    .sb__footer-links_div {
+        width: auto;
+    }
+
+    
+
+
+
+
+
+  /* project page */
+    .json {
+        padding: 20px;
+    }
+
+    .projectcontent {
+        display: block;
+    }
+
+    .projectcontent .proj {
+        width: auto;
+        margin: 10px;
+    }
+
+
+    /* homepage */
+
+    .homebackground {
+        padding: 10px;
+    }
+
+    .home-hero {
+        margin: auto !important;
+    }
+
+   .home-body {
+    margin: auto;
+   }
+
+   .home-cards-image {
+    display:grid;
+     align-items: center ;
+   }
+   
+
+    .inside-home {
+        width: auto;
+        margin-top: 380px;
+        padding: auto;
+    }
+
+    .links a {
+        font-size: 15px;
+    }
+
+    .inside-home .links  {
+        margin: auto;
+    }
+
+   .home-cards {
+        display: grid;
+        width: auto;
+    }
+}
+@media screen and (max-width:550px) {
+    .sb__footer-heading h1{
+        font-size: 34px;
+        line-height: 42px;
+    }
+    
+    .sb__footer-links_div{
+        margin: 1rem 0;
+        line-height: 20px;
+        
+    }
+
+    .footer {
+        display: block;
+        padding: 10px;
+    }
+
+    .sb__footer-below {
+        text-align: center;
+    }
+
+    .social_media img {
+        width: 40px;
+    }
+
+    .sb__footer-below{
+        flex-direction: column;
+        justify-content: left;
+    }
+
+    .sb__footer-below-links{
+        flex-direction: column;
+    }
+
+    .sb__footer-below-links p{
+        margin-left: 0rem;
+        margin-top: 1rem;
+    }
+
+    /* blogpage */
+
+   
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+    .lbutton {
+        position: relative;
+    }
+
+}
+
+
+.footer-body {
+    display: block;
+}
+
+
+
+
+
+
+@media screen and (max-width: 400px) {
+    .sb__footer-heading h1{
+        font-size: 27px;
+        line-height: 38px;
+    }
+}
+
